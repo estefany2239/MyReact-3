@@ -45,11 +45,11 @@ const ProductItem = memo(({ item, esFavorito, onToggle, onAgregar, priority }) =
             onClick={() => onAgregar(item)}
             startIcon={<ShoppingCartTwoToneIcon />} 
             sx={{ 
-              bgcolor: '#f36ca4', // <--- Botón Rosado
+              bgcolor: '#f36ca4', 
               color: 'white', 
               borderRadius: '12px', 
               fontWeight: 'bold',
-              '&:hover': { bgcolor: '#d15a8a' } 
+              '&:hover': { bgcolor: '#d15a8a', color: 'black' } 
             }}
           >
             Agregar
