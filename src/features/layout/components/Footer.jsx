@@ -29,20 +29,19 @@ export const Footer = () => {
         color: '#555', 
         pt: 10, 
         pb: 4, 
-        borderTop: '1px solid #fce4ec' // Rosa muy clarito
+        borderTop: '1px solid #fce4ec' 
       }}
     >
       <Container maxWidth="lg">
         <Grid container spacing={6}>
           
-          {/* Columna 1: Inspiración */}
           <Grid item xs={12} md={4}>
             <Typography 
               variant="h5" 
               sx={{ 
                 fontFamily: 'serif', 
                 fontWeight: 600, 
-                color: '#f06292', // Rosa vibrante para el logo
+                color: '#f06292', 
                 mb: 2 
               }}
             >
@@ -64,7 +63,6 @@ export const Footer = () => {
             </Stack>
           </Grid>
 
-          {/* Columna 2: Shop */}
           <Grid item xs={6} md={2}>
             <Typography variant="subtitle2" sx={{ fontWeight: 700, mb: 3, color: '#333', letterSpacing: 1 }}>
               COLECCIONES
@@ -83,11 +81,10 @@ export const Footer = () => {
             </Stack>
           </Grid>
 
-          {/* Columna 3: Newsletter Aesthetic */}
           <Grid item xs={12} md={6}>
             <Box 
               sx={{ 
-                bgcolor: '#fff5f8', // Fondo rosa pastel muy suave
+                bgcolor: '#fff5f8', 
                 p: 4, 
                 borderRadius: 4,
                 textAlign: 'center',
@@ -129,7 +126,6 @@ export const Footer = () => {
           </Grid>
         </Grid>
 
-        {/* Footer Bottom */}
         <Box 
           sx={{ 
             mt: 8, 

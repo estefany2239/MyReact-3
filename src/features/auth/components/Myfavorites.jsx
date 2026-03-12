@@ -12,7 +12,6 @@ const Myfavorites = () => {
   const [favoritos, setFavoritos] = useState([]);
   const navigate = useNavigate();
 
-  // Cargar favoritos al montar el componente
   useEffect(() => {
     const saved = localStorage.getItem("mis_favoritos");
     if (saved) {
@@ -20,22 +19,18 @@ const Myfavorites = () => {
     }
   }, []);
 
-  // --- FUNCIÓN PARA ELIMINAR Y ACTUALIZAR EL NÚMERO ---
   const eliminarFavorito = (nombre) => {
     const nuevosFavoritos = favoritos.filter(fav => fav.nombre !== nombre);
     setFavoritos(nuevosFavoritos);
     localStorage.setItem("mis_favoritos", JSON.stringify(nuevosFavoritos));
     
-    // IMPORTANTE: Esto avisa al Header para que el número baje al instante
     window.dispatchEvent(new Event("favoritos-actualizados"));
   };
 
-  // --- FUNCIÓN PARA COMPRAR DESDE FAVORITOS ---
   const agregarAlCarrito = useCallback((producto) => {
     const guardados = localStorage.getItem("mi_carrito");
     const carritoActual = guardados ? JSON.parse(guardados) : [];
     
-    // Normalizamos el objeto para que MyCart lo entienda
     const nuevoProducto = {
       nombre: producto.nombre,
       precio: producto.precio,
@@ -45,10 +40,8 @@ const Myfavorites = () => {
     const nuevoCarrito = [...carritoActual, nuevoProducto];
     localStorage.setItem("mi_carrito", JSON.stringify(nuevoCarrito));
     
-    // Avisamos al Header que hay algo nuevo en el carrito
     window.dispatchEvent(new Event("carrito-actualizado"));
     
-    // Redirigimos a la página del carrito
     navigate('/mycart');
   }, [navigate]);
 

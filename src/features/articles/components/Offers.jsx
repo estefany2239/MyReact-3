@@ -1,7 +1,5 @@
 import React from 'react';
-// Añadimos Paper y Container para que se vea mejor
 import { Box, Stack, Typography, Paper, Container } from '@mui/material';
-
 import { UseState } from '../hooks/UseState'; 
 import { Timer } from '../hooks/useEffect'; 
 import { Component1 } from '../hooks/UseContent'; 
@@ -19,7 +17,6 @@ export const Offers = () => {
       </Typography>
       
       <Stack spacing={3}>
-        {/* Usamos Paper para cada sección */}
         <Paper elevation={3} sx={{ p: 3, borderRadius: 2 }}>
           <Typography variant="h6" color="primary">Estado Online</Typography>
           <StatusBar />

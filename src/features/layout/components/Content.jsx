@@ -6,7 +6,7 @@ import {
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import AddShoppingCartTwoToneIcon from '@mui/icons-material/AddShoppingCartTwoTone';
-import GitHubIcon from '@mui/icons-material/GitHub'; // Importa el icono de GitHub
+import GitHubIcon from '@mui/icons-material/GitHub'; 
 
 const PRODUCTOS_MAQUILLAJE = [
   { id: 1, titulo: 'Milk Product', precio: '20.000', foto: '/img/milk.webp' },
@@ -107,7 +107,7 @@ export const Content = () => {
         </Container>
       </Box>
 
-      {/* Carrusel de Productos */}
+
       <Container maxWidth="xl">
         <Typography variant="h4" sx={{ mb: 6, mt: 8, fontWeight: 'bold', textAlign: 'center' }}>Más Vendidos</Typography>
         <Box sx={{ position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>

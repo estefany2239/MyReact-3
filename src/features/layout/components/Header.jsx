@@ -5,7 +5,6 @@ import {
   IconButton, Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Badge 
 } from "@mui/material";
 
-// Iconos
 import MenuIcon from '@mui/icons-material/Menu';
 import HomeTwoToneIcon from '@mui/icons-material/HomeTwoTone';
 import AutoAwesomeTwoToneIcon from '@mui/icons-material/AutoAwesomeTwoTone';
@@ -19,26 +18,20 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCartOutlined';
 export const Header = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
   
-  // Estados para los números de las burbujas (Badges)
   const [favoritosCount, setFavoritosCount] = useState(0);
   const [carritoCount, setCarritoCount] = useState(0);
 
-  // Función para leer el localStorage y actualizar los números
-  const actualizarContadores = () => {
-    // Favoritos
+ const actualizarContadores = () => {
     const favs = localStorage.getItem("mis_favoritos");
     setFavoritosCount(favs ? JSON.parse(favs).length : 0);
 
-    // Carrito
     const cart = localStorage.getItem("mi_carrito");
     setCarritoCount(cart ? JSON.parse(cart).length : 0);
   };
 
   useEffect(() => {
-    // Cargar datos al abrir la página
     actualizarContadores();
 
-    // ESCUCHAR LOS "GRITOS" (Eventos) de otros componentes
     window.addEventListener('favoritos-actualizados', actualizarContadores);
     window.addEventListener('carrito-actualizado', actualizarContadores);
     window.addEventListener('storage', actualizarContadores);
@@ -111,7 +104,6 @@ export const Header = () => {
                 InputProps={{ endAdornment: <SearchRoundedIcon /> }}
               />
 
-              {/* Botones de Navegación */}
               <Stack direction="row" spacing={0.5} sx={{ display: { xs: 'none', md: 'flex' } }}>
                 {menuItems.map((item) => (
                   <Button 

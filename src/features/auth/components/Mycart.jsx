@@ -11,12 +11,10 @@ import RemoveIcon from '@mui/icons-material/Remove';
 const MyCart = () => {
   const [productos, setProductos] = useState([]);
 
-  // Cargar productos al iniciar
   useEffect(() => {
     const guardados = localStorage.getItem("mi_carrito");
     if (guardados) {
       const datos = JSON.parse(guardados);
-      // Aseguramos que cada producto tenga una propiedad 'cantidad', si no existe es 1
       const datosConCantidad = datos.map(item => ({
         ...item,
         cantidad: item.cantidad || 1
@@ -25,14 +23,12 @@ const MyCart = () => {
     }
   }, []);
 
-  // Guardar en localStorage cada vez que cambie la lista de productos
   const actualizarLocalStorage = (nuevaLista) => {
     setProductos(nuevaLista);
     localStorage.setItem("mi_carrito", JSON.stringify(nuevaLista));
     window.dispatchEvent(new Event("carrito-actualizado"));
   };
 
-  // Función para modificar cantidad (+ o -)
   const modificarCantidad = (index, delta) => {
     const nuevaLista = [...productos];
     const nuevaCantidad = nuevaLista[index].cantidad + delta;
@@ -54,7 +50,6 @@ const MyCart = () => {
     actualizarLocalStorage([]);
   };
 
-  // Cálculo del total considerando la cantidad
   const total = useMemo(() => {
     return productos.reduce((acc, item) => {
       const precioLimpio = parseInt(item.precio.replace(/\./g, ''));
@@ -101,7 +96,6 @@ const MyCart = () => {
                     sx={{ flexGrow: 1 }}
                   />
 
-                  {/* SELECTOR DE CANTIDAD */}
                   <Stack direction="row" alignItems="center" spacing={1} sx={{ mr: 4, bgcolor: '#fdf2f7', borderRadius: 3, p: 0.5 }}>
                     <IconButton 
                       size="small" 

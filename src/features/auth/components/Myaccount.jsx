@@ -314,7 +314,6 @@ export const Myaccount = () => {
 
       </Container>
 
-      {/* MENSAJE BONITO ROSADO */}
 
       <Snackbar
         open={openWelcome}
