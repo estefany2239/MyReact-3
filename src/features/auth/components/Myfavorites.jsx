@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { useNavigate } from "react-router-dom";
-import { 
-  Box, Container, Typography, Button, Card, CardContent, 
-  CardMedia, Grid, IconButton, Stack 
+import {
+  Box, Container, Typography, Button, Card, CardContent,
+  CardMedia, Grid, IconButton, Stack
 } from '@mui/material';
 import DeleteOutlineIcon from '@mui/icons-material/DeleteOutline';
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
@@ -23,14 +23,14 @@ const Myfavorites = () => {
     const nuevosFavoritos = favoritos.filter(fav => fav.nombre !== nombre);
     setFavoritos(nuevosFavoritos);
     localStorage.setItem("mis_favoritos", JSON.stringify(nuevosFavoritos));
-    
+
     window.dispatchEvent(new Event("favoritos-actualizados"));
   };
 
   const agregarAlCarrito = useCallback((producto) => {
     const guardados = localStorage.getItem("mi_carrito");
     const carritoActual = guardados ? JSON.parse(guardados) : [];
-    
+
     const nuevoProducto = {
       nombre: producto.nombre,
       precio: producto.precio,
@@ -39,18 +39,18 @@ const Myfavorites = () => {
 
     const nuevoCarrito = [...carritoActual, nuevoProducto];
     localStorage.setItem("mi_carrito", JSON.stringify(nuevoCarrito));
-    
+
     window.dispatchEvent(new Event("carrito-actualizado"));
-    
+
     navigate('/articles');
   }, [navigate]);
 
   return (
     <Box sx={{ bgcolor: '#ffffff', minHeight: '100vh', py: 5 }}>
       <Container maxWidth="lg">
-        <Button 
-          startIcon={<ArrowBackIosNewIcon />} 
-          onClick={() => navigate(-1)}
+        <Button
+          startIcon={<ArrowBackIosNewIcon />}
+          onClick={() => navigate('/articles')} // Ruta directa a tu tienda
           sx={{ mb: 4, color: 'black', fontWeight: 'bold' }}
         >
           Volver a la tienda
@@ -70,9 +70,9 @@ const Myfavorites = () => {
           <Grid container spacing={3}>
             {favoritos.map((item, index) => (
               <Grid item xs={12} sm={6} md={4} key={index}>
-                <Card sx={{ 
-                  display: 'flex', 
-                  borderRadius: 4, 
+                <Card sx={{
+                  display: 'flex',
+                  borderRadius: 4,
                   height: '160px',
                   overflow: 'hidden',
                   border: '1px solid #eee',
@@ -97,14 +97,14 @@ const Myfavorites = () => {
                     </Box>
 
                     <Stack direction="row" justifyContent="space-between" alignItems="center">
-                      <Button 
-                        size="small" 
+                      <Button
+                        size="small"
                         variant="contained"
                         onClick={() => agregarAlCarrito(item)}
                         startIcon={<ShoppingCartTwoToneIcon />}
-                        sx={{ 
-                          bgcolor: '#f36ca4', 
-                          borderRadius: 2, 
+                        sx={{
+                          bgcolor: '#f36ca4',
+                          borderRadius: 2,
                           fontSize: '0.75rem',
                           fontWeight: 'bold',
                           '&:hover': { bgcolor: '#000' }
@@ -112,9 +112,9 @@ const Myfavorites = () => {
                       >
                         Comprar
                       </Button>
-                      
-                      <IconButton 
-                        onClick={() => eliminarFavorito(item.nombre)} 
+
+                      <IconButton
+                        onClick={() => eliminarFavorito(item.nombre)}
                         color="error"
                         sx={{ bgcolor: '#fff5f5' }}
                       >
