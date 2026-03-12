@@ -42,7 +42,7 @@ const Myfavorites = () => {
     
     window.dispatchEvent(new Event("carrito-actualizado"));
     
-    navigate('/mycart');
+    navigate('/articles');
   }, [navigate]);
 
   return (

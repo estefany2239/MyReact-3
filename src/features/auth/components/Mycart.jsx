@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
+import { Link } from 'react-router-dom'; // Para navegación interna sin recargar
 import { 
   Container, Typography, Box, Button, List, ListItem, 
   ListItemText, Avatar, Divider, IconButton, Paper, Stack 
@@ -14,12 +15,17 @@ const MyCart = () => {
   useEffect(() => {
     const guardados = localStorage.getItem("mi_carrito");
     if (guardados) {
-      const datos = JSON.parse(guardados);
-      const datosConCantidad = datos.map(item => ({
-        ...item,
-        cantidad: item.cantidad || 1
-      }));
-      setProductos(datosConCantidad);
+      try {
+        const datos = JSON.parse(guardados);
+        const datosConCantidad = datos.map(item => ({
+          ...item,
+          cantidad: Number(item.cantidad) || 1
+        }));
+        setProductos(datosConCantidad);
+      } catch (error) {
+        console.error("Error al parsear el carrito:", error);
+        setProductos([]);
+      }
     }
   }, []);
 
@@ -52,8 +58,9 @@ const MyCart = () => {
 
   const total = useMemo(() => {
     return productos.reduce((acc, item) => {
-      const precioLimpio = parseInt(item.precio.replace(/\./g, ''));
-      return acc + (precioLimpio * (item.cantidad || 1));
+      const precioRaw = String(item.precio || "0").replace(/\./g, '');
+      const precioLimpio = parseInt(precioRaw, 10) || 0;
+      return acc + (precioLimpio * item.cantidad);
     }, 0);
   }, [productos]);
 
@@ -67,7 +74,13 @@ const MyCart = () => {
       {productos.length === 0 ? (
         <Box sx={{ textAlign: 'center', py: 10, bgcolor: '#f9f9f9', borderRadius: 4 }}>
           <Typography variant="h6" color="text.secondary">Tu carrito está vacío.</Typography>
-          <Button href="/Articles" sx={{ mt: 2, color: '#f36ca4', fontWeight: 'bold' }}>Volver a la tienda</Button>
+          <Button 
+            component={Link} 
+            to="/Articles" 
+            sx={{ mt: 2, color: '#f36ca4', fontWeight: 'bold' }}
+          >
+            Volver a la tienda
+          </Button>
         </Box>
       ) : (
         <Stack spacing={4}>
