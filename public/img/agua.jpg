@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="es" class="logged-out" >
+<head>
+    <meta charset="utf-8">
+    <title>
+                        Presenta tu candidatura para Agua Micelar de Garnier. - Agua Micelar            </title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="apple-mobile-web-app-title" content="trnd">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+                    <link rel="canonical" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas" />
+                                                                                <meta content="El período de candidaturas ya está abierto. ¡Apúntate y opta a convertirte en embajadora Garnier!" name="description">
+                                        
+    <link rel="icon" sizes="192x192" href="/build/images/themes/trnd/apple-touch-icon.297d1bbd.png">
+    <link rel="apple-touch-icon" href="/build/images/themes/trnd/apple-touch-icon.297d1bbd.png">
+    <link rel="shortcut icon" href="https://www.trnd.com/es/favicon">
+            <!-- Twitter Card data -->
+<meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@trnd_es">
+            <meta name="twitter:title" content="Presenta tu candidatura para Agua Micelar de Garnier.">
+                <meta name="twitter:description" content="El período de candidaturas ya está abierto. ¡Apúntate y opta a convertirte en embajadora Garnier!">
+                <meta name="twitter:image" content="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/micelar-project-teaser-mobile.jpg">
+    
+<!-- Open Graph data -->
+                <meta property="og:title" content="Presenta tu candidatura para Agua Micelar de Garnier.">
+        <meta property="og:type" content="website">
+<meta property="og:url" content="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=3">
+            <meta property="og:description" content="El período de candidaturas ya está abierto. ¡Apúntate y opta a convertirte en embajadora Garnier!">
+                <meta property="og:image" content="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/micelar-project-teaser-mobile.jpg">
+            
+                    <link rel="stylesheet" href="/build/vendors.59415196.css" integrity="sha384-MzfBAhdLd0nBIcU0ndKg5vYNbSnv4seIAk+IAWE3dhF2dnpNDP/gArjPyWMDZJqX"><link rel="stylesheet" href="/build/trndsphere17_app.ea679dec.css" integrity="sha384-LechuFgxgA/MBAm0gW0F4MgckUY8VhJNHmUaa7dToXj0APkQC69hfLtvs0qL1n/i">
+
+        <style>
+            .header .logo:after {
+                content: 'España';
+            }
+        </style>
+                    
+    <style>
+                    :root {
+                --brand-color: #eba715;
+                --brand-color-lighter: color-mix(in srgb,#eba715,#fff 80%);
+                --brand-color-darker: color-mix(in srgb,#eba715,#000 2%);
+            }
+            article a, article a:hover, .load-more-container .trndButtonBig, .load-more-container .trndButtonBig:hover, .popup-box-link-text {
+                color: #eba715;
+            }
+            .blog-card a, .doctrine-pagination a, article a h1, article a h2, .gotoTop a, .project-hero__application-phase .project-hero__project-runtime {
+                color: #eba715 !important;
+            }
+            .blog-card .comments-link, .blog-card .continue-reading, .project-nav .current a, .show .action-button {
+                color: #eba715;
+            }
+            article.trnd-blog.blog-card.columns a .abstract {
+                color: initial !important;
+            }
+            h2.product-conviction__number, h2.survey-result__number{
+                color: #fff !important;
+            }
+            .project .button-cta:not(.login-overlay-button):hover, .social-share-button, .numberedList li:before, .quickpoll .bar > div, .statistic .bar > div, .memberRoleManagers .comment-meta .moderator, .numberedList li:before, article .button-cta:not(.login-overlay-button), .application-button, .quickpollButton, #age_verification_confirm, .button-big, .button-submit, .testimonial-slider .bx-wrapper pager.bx-default-pager a:hover, .testimonial-slider .bx-wrapper .bx-pager.bx-default-pager a.active {
+                background-color: #eba715 !important;
+                border: none !important;
+            }
+            .action-button, .project-nav a span:after, .doctrine-pagination .current-page a, .doctrine-pagination li:hover a, .product-conviction__number, .quickpollForm .question-radio input[type='radio']:checked + label:before,
+            .quickpollForm .question-checkbox input[type='checkbox']:checked + label:before {
+                background-color: #eba715
+            }
+            #images a, .highlight, .social-share-buttons a {
+                background-color: #eba71530 !important;
+            }
+            .product-conviction__number:after {
+                border-color: transparent transparent transparent #eba715;
+            }
+            .product-conviction__text {
+                background-color: #eba71575;
+            }
+            @media all and (-ms-high-contrast:none){
+                #images a, .social-share-buttons a {
+                    background-color: #eba715 !important;
+                }
+                #images a, *::-ms-backdrop, .social-share-buttons a {
+                    background-color: #eba715 !important;
+                }
+            }
+            @supports (-ms-accelerator:true) {
+                #images a, .social-share-buttons a {
+                    background-color: #eba715 !important;
+                }
+            }
+            @media (max-width: 1023px) {
+                .member-menu .menu > li > a span, .member-menu .menu > li > a:before {
+                    color: #eba715;
+                }
+                .mobile-menu__single .menu li > a {
+                    background-color: #eba715 !important;
+                }
+            }
+            @media (min-width: 1024px) {
+                .member-menu .menu a:before, .open-tools-button:after {
+                    background-color: #eba715 ;
+                }
+            }
+            </style>
+                        <style>
+                /*main navbar*/
+.project-nav{
+	background-color: #b6b6b6!important;
+}
+/*title color*/
+.main h1, .main h2, .main h3, .main h4, .main h5, .main h6,
+.main h1 a, .main h2 a, .main h3 a, .main h4 a, .main h5 a, .main h6 a{
+  color: #eba715;
+}
+/*social share icons*/
+.social-share-buttons a{
+  background-color: #b6b6b6;
+}
+/*Link color paragraph*/
+article p a,
+article ol a,
+article ul a{
+  color: #eba715;
+}
+/*hero image background color*/
+.hero-container .desktop{
+  background-color:#dedede;
+}
+                .copied-to-clipboard:after {
+                    content: 'Enlace copiado';
+                }
+            </style>
+            
+            <script>
+        var has_app_user = 0;
+        var style = 'trndsphere17';
+    </script>
+    <script src="/build/runtime.7d7bf5ad.js" integrity="sha384-pZ+soMVSXBZS4NstRWdIV849Hsk2gQgvzs3Dh7NtxbldB8um9XKE3h8Tnb0ZSjBF"></script><script src="/build/vendors.0e5d7a61.js" integrity="sha384-NIDWP0JzHFofwdpENUcIyYQLAYqX3wrE3aBTpdtjyX9iliH4FHYs0vJog9CZAVqt"></script><script src="/build/questions.540f6632.js" integrity="sha384-TBbx1BJyMGx3OVitGGTSf5jyKJHTtTcUdZuoClnUx5Rppu1P7Q5+K2ryv9cRDgI0"></script><script src="/build/1862.6360c932.js" integrity="sha384-XMYnK8IR9fzHCbCCIylPaWgvRPoh1xZlNSfz+O6M0TSfU/0VjXAsF6YgJlyogiLd"></script><script src="/build/1382.04adc853.js" integrity="sha384-Brsm0FSlSjhM8EV+W76MbfS0keQxjg0A1V3eHW26C9gRG+XigIrUuZtOJOIez3t6"></script><script src="/build/trndsphere17_app.479b1b6b.js" integrity="sha384-lDhTmrWk0xZywgNlMVFKG6WWFHSMrbzL8GQeI8VGZHz7eeMax7Qi9HauGjWUgx0X"></script>
+</head>
+<body class="show-post">
+        
+    
+            
+<!-- Header & Navigation -->
+<header id="general-header" class="general-header">
+    <div class="desktop row align-middle">
+        <nav role="navigation" class="nav columns">
+                    
+    
+            <ul class="menu">
+                            <li class="logo-menu">
+                    <a class="logo" href="https://www.trnd.com/es/" title="">trnd</a>
+                </li>
+                                                            <li>
+                                <a class="Home" href="https://www.trnd.com/es/" title="Inicio"><span>Inicio</span></a>
+                                    </li>
+                                    <li class="current_ancestor">
+                                <a class="CampaignOverview" href="https://www.trnd.com/es/proyectos" title="Proyectos"><span>Proyectos</span></a>
+                                    </li>
+                                                            <li class="user-login">
+                        <a href="https://www.trnd.com/es/registro" title="Regístrate" class="button-cta">Regístrate</a>
+                        <a href="/es/login" title="Iniciar sesión" class="login">Iniciar sesión</a>
+                            </li>
+                </ul>
+    
+        </nav>
+    </div>
+    <div class="mobile row align-middle">
+        <div class="small-2 columns">
+            <a class="logo" href="https://www.trnd.com/es/" title="">trnd</a>
+        </div>
+        <div class="small-8 columns text-center general-header__label">
+                                                     
+        </div>
+        <div class="small-2 columns text-right">
+            <button id="menu-toggle" aria-label="Abrir Menú" class="hamburger hamburger--squeeze" type="button">
+                <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                </span>
+            </button>
+        </div>
+    </div>
+</header>
+<nav role="navigation" class="mobile-nav">
+    <div class="small-12 columns text-right">
+        <button id="menu-toggle-2" aria-label="Abrir Menú" class="hamburger hamburger--squeeze" type="button">
+            <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+            </span>
+        </button>
+    </div>
+    <div class="mobile-menu mobile-menu__secondary align-middle">
+        <p class="logo-menu">
+            <a class="logo" href="https://www.trnd.com/es/" title="">trnd</a>
+        </p>
+                    <ul></ul>
+            </div>
+    <div class="no-border">                
+    
+            <ul class="mobile-menu mobile-menu__primary align-middle">
+                            <li class="logo-menu">
+                    <a class="logo" href="https://www.trnd.com/es/" title="">trnd</a>
+                </li>
+                                                            <li>
+                                <a class="Home" href="https://www.trnd.com/es/" title="Inicio"><span>Inicio</span></a>
+                                    </li>
+                                    <li class="current_ancestor">
+                                <a class="CampaignOverview" href="https://www.trnd.com/es/proyectos" title="Proyectos"><span>Proyectos</span></a>
+                                    </li>
+                                                            <li class="user-login">
+                        <a href="https://www.trnd.com/es/registro" title="Regístrate" class="button-cta">Regístrate</a>
+                        <a href="/es/login" title="Iniciar sesión" class="login">Iniciar sesión</a>
+                            </li>
+                </ul>
+    
+        </nav>
+                                    
+<div class="login-overlay overlay-modal row align-center">
+    <div class="overlay-modal_content small-4">
+        <a href="#" class="close-login" title="Cerrar"><i class="far fa-times" aria-hidden="true"></i></a>
+        <div class="row align-middle">
+            <div class="small-12 columns">
+                <form method="post" action="/es/login_check" id="login-form" autocomplete="off">
+                    <h3 class="text-center">Iniciar sesión</h3>
+                    
+                                                <div class="form_row input-username">
+                                                                                                                                                                        <label for="username">E-mail</label>
+    <input type="email" id="username" name="_username" value="">
+
+                            </div>
+                            <div class="form_row input-password">
+                                    <label for="password">Contraseña</label>
+    <input type="password" id="password" name="_password" value="">
+
+                                                                                                <span class="pw-icon">
+                                    <i class="far fa-eye-slash show" title="Mostrar contraseña"></i>
+                                    <i class="far fa-eye" title="Ocultar contraseña"></i>
+                                </span>
+                            </div>
+                            <p class="text-center">
+                                <a href="https://www.trnd.com/es/login/new-password" title="¿Has olvidado tu contraseña?">¿Has olvidado tu contraseña?</a>
+                            </p>
+
+                                                            <input type="hidden" name="_target_path" value="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas">
+                            
+                            <div class="login-button-container text-center">
+                                <input class="button-cta login-overlay-button" type="submit" id="loginbutton" value="Login" aria-label="Login">
+                            </div>
+                                    </form>
+            </div>
+            <div class="small-12 columns text-center">
+                                    <p>¿Tu primera vez en trnd?</p>
+                                <p><a class="button-cta button-outline login-overlay-button" href="https://www.trnd.com/es/registro">¿Todavía no eres miembro? ¡Haz clic aquí!</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script src="/build/show_password.f0e05161.js" integrity="sha384-dO5hT+DS1DQ+nvYczVyJZ0X74IzsHLc4wT6++1V5m+l/39a37qgcX2ujCr1V9+nf"></script>
+
+    <script>
+        showPasswordAsText( '.pw-icon', '.input-password #password' );
+    </script>
+
+    <!-- /Header & Navigation -->
+
+        <!-- Wrapper -->
+    <div class="project wrapper">
+        <!-- Main Content -->
+        <div class="main">
+                                                <div class="project-hero">
+                                                    <picture>
+                                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                                <source srcset="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/micelar-project-teaser-mobile_default.jpg" media="(min-width: 463px)">
+                                <source srcset="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/micelar-project-teaser-mobile_small.jpg" media="(max-width: 462px)">
+                                <!--[if IE 9]></video><![endif]-->
+                                            <img alt="" title="" data-src="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/micelar-project-teaser-mobile_small.jpg"     class="project-hero__image lazyload"  loading="lazy"/>
+
+                            </picture>
+                                                <div class="project-hero__info">
+                            <div class="project-hero__info-headline">
+                                                                                                                                        <div class=" project-brand-logo" style="background-image: url(/es/proyectos/skinactive-agua-micelar/logo.png);"></div>
+                                                                                                    <h2 class="project-hero__project-title">Agua Micelar Garnier</h2>
+                                                            </div>
+                                                            <div class="project-hero__project-description">
+                                    <p>Cuidamos la piel con la nueva gama de Agua Micelar de Garnier y compartimos nuestras impresiones en webs de belleza y en redes sociales.</p>
+                                    <div class="project-hero__project-meta">
+                                                                                                                            <div class="project-hero__project-category">                                    Belleza y cuidado personal
+    
+    
+    </div>
+                                                                                                                                                                        <div class="project-hero__project-runtime">Desde el 02/11/17 hasta el 21/12/17</div>
+                                                                            </div>
+                                </div>
+                            
+                                                    </div>
+                    </div>
+                                                        <!-- Project Navigation -->
+                                    <div class="sticky" id="project-spot">
+                                
+
+            <ul class="project-nav menu">
+                                        <li class="project-nav__brand-logo desktop">
+                </li>
+                                                <li>
+                                <a class="CampaignBlogInfoPage" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/eliminar-impurezas" title="Info de proyecto"><span>Info de proyecto</span></a>
+                                    </li>
+                                    <li class="current_ancestor">
+                                <a class="CampaignBlogPostsPage" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive" title="Blog del proyecto"><span>Blog del proyecto</span></a>
+                                    </li>
+                                    <li>
+                                <a class="CampaignBlogGalleryPage" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/fotos" title="galería"><span>galería</span></a>
+                                    </li>
+                                    <li>
+                                <a class="CampaignBlogResultPage" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/resultados" title="Resultados"><span>Resultados</span></a>
+                                    </li>
+                            <li class="project-nav__apply-now desktop">
+            </li>
+                        </ul>
+    
+                    </div>
+                                        <!-- /Project Phase -->
+            <!-- /Project Navigation -->
+            <!-- Content Area -->
+                            <div class="content-wrapper row">
+                        <div class="post-wrapper">
+        <article>
+    <div class="post-content row">
+        <div class="post-meta small-12 medium-2">
+            <p class="author">
+                natalia.
+            </p>
+            <p class="date">
+                hace 8 años
+            </p>
+            <div class="post-share">
+                                                        
+     
+<div class="social-share-buttons">
+                <a href="https://www.trnd.com/es/deref?url=eyJpdiI6ImNMR2NGeFhqVkt6aFwvcDZlNURiQ1NnPT0iLCJ2YWx1ZSI6ImRKRnZLVmNlU0R6dE5ZNHpPdVQ1QlRcLzVjU3VYREFEMG9UcmxiUVVWUTlVdDEyeFJzRGNVSStTWmRsQTBXRmJiVW9rb1AzVjBZSlhaajVhQlwvM0RIOExhb1pOXC9CTmNEdTJ5UGJtOGZONlNSN0l5MmMxd1phNmxvRThuck95aGQ0U25ScjJkWDhld2NWZnVhMGxVTHgxXC9rb25HY013Z21hMEVoODJxZlA2bXB4dEJ4cVNZSDkxOG45bXhsdVFLSk9qQmlYem1qdnhDc3JcL3J2YzYyWnZ3bm02YjlBWURkYTh4OVhmdEdHaHlNRT0iLCJtYWMiOiJkNzg4MGVmYjdlOGY3ODQ0MjU1NzhlZjI5MWM4ZDAwNTMzYzZhYjZlMjBmZjc2MzExOGM2NWYyYjAyODUwZDgwIn0%3D" id="share-twitter-145646" class="js-social-share social-share-button share-twitter" title="Compartir por Twitter" data-content-name="Social share button TW - CampaignBlogpost" data-content-piece="Twitter" target="_blank" rel="noopener noreferrer sponsored">
+            <div class="social-share-button-icon">
+                <svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 50 50">
+                    <path d="M 5.9199219 6 L 20.582031 27.375 L 6.2304688 44 L 9.4101562 44 L 21.986328 29.421875 L 31.986328 44 L 44 44 L 28.681641 21.669922 L 42.199219 6 L 39.029297 6 L 27.275391 19.617188 L 17.933594 6 L 5.9199219 6 z M 9.7167969 8 L 16.880859 8 L 40.203125 42 L 33.039062 42 L 9.7167969 8 z"/></svg>
+            </div>
+        </a>
+                <a href="https://www.trnd.com/es/deref?url=eyJpdiI6Inc4eEtHNUYrOXh1K01PMHFvTTJ3WFE9PSIsInZhbHVlIjoib1BtZWRVSXBsbHI2Z1p5MzFrSE9tQ0o0KzU2Y0tvd2syTjI2clFRWHlSbGxyT2FOZjBzd2lOcExQNEhrVUVtUk9USzVLU2xlZGI4a0VpOTYzR0N4cEUxUE9KUmpuR3VKR095anRPSmZVTEQrSU9aZ2doc3VndGZlQmRITmFCQVFEQjZlSktOQzlXTFwvZ25ldEZaY1JPZWdBUzlIQUNBRzN4ZDlVOVY3MzlhcU5icW5OTDFmSjNlSXNnckVaVEhcL0JEOTQ5R2lXRXMyNTJjXC9CbndZbm9sTTFDOE9UUG10R1R1UGZDSmJ3Q0Nsbz0iLCJtYWMiOiI5YzA2YWM1NDQ2YzY4ZDhlNzFiODdiZWQwZmQ4NjM2ZGVhNzIyN2NkZTBiMWYzY2VmMmQ4ZGE2M2VkYzEwMjRjIn0%3D" id="share-facebook-145646" class="js-social-share social-share-button share-facebook" title="Compartir por Facebook" data-content-name="Social share button FB - CampaignBlogpost" data-content-piece="Facebook" target="_blank" rel="noopener noreferrer sponsored">
+            <div class="social-share-button-icon">
+                <svg viewBox="48 0 48 48" preserveAspectRatio="xMidYMid meet" class="svg-icon svg-icon-facebook">
+                    <path class="svg-icon-path" d="M84.5,0.3V8h-4.5c-1.7,0-2.8,0.3-3.3,1c-0.6,0.7-0.9,1.7-0.9,3.1v5.5h8.5L83,26.1h-7.3V48h-8.8V26.1h-7.4v-8.5h7.4v-6.3 c0-3.6,1-6.3,3-8.3c2-2,4.7-3,8-3C80.7,0,82.9,0.1,84.5,0.3z"/>
+                </svg>
+            </div>
+        </a>
+                    <a id="share-whatsapp-145646" class="js-social-share social-share-button share-whatsapp" href="whatsapp://send?text=https%3A%2F%2Fwww.trnd.com%2Fes%2Fproyectos%2Fskinactive-agua-micelar%2Fagua-micelar-skinactive%2Fcandidaturas%3Fpage%3D3" title="Compartir por WhatsApp"  data-track-content data-content-name="Social share button WA - CampaignBlogpost" data-content-piece="WhatsApp">
+            <div class="social-share-button-icon">
+                <svg viewBox="0 0 90 90" preserveAspectRatio="xMidYMid meet" class="svg-icon svg-icon-whatsapp">
+                	<path class="svg-icon-path" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
+                		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
+                		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
+                		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
+                		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
+                		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
+                		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
+                		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
+                		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
+                		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
+                		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
+                </svg>
+            </div>
+        </a>
+                        <a id="share-mail-145646" class="social-share-button share-mail" href="mailto:?body=https%3A%2F%2Fwww.trnd.com%2Fes%2Fproyectos%2Fskinactive-agua-micelar%2Fagua-micelar-skinactive%2Fcandidaturas%3Fpage%3D3" title="Compartir por E-mail" data-track-content data-content-name="Social share button Email - CampaignBlogpost" data-content-piece="Email">
+            <div class="social-share-button-icon">
+                <svg viewBox="0 -3 25 25" preserveAspectRatio="xMidYMid meet" class="svg-icon svg-icon-mail">
+                    <path d="M12.5,12.5 L9.40714286,9.79285714 L0.564285714,17.3732143 C0.885714286,17.6714286 1.31964286,17.8571429 1.79821429,17.8571429 L23.2017857,17.8571429 C23.6785714,17.8571429 24.1107143,17.6714286 24.4303571,17.3732143 L15.5928571,9.79285714 L12.5,12.5 L12.5,12.5 Z"/>
+                    <path d="M24.4357143,0.483928571 C24.1142857,0.183928571 23.6821429,0 23.2017857,0 L1.79821429,0 C1.32142857,0 0.889285714,0.185714286 0.567857143,0.4875 L12.5,10.7142857 L24.4357143,0.483928571 L24.4357143,0.483928571 Z"/>
+                    <path d="M0,1.56785714 L0,16.4035714 L8.63035714,9.06964286 L0,1.56785714 Z"/>
+                    <path d="M16.3696429,9.06964286 L25,16.4035714 L25,1.5625 L16.3696429,9.06964286 Z"/>
+                </svg>
+            </div>
+        </a>
+        </div>
+                                </div>
+        </div>
+        <div class="post-content__article small-12 medium-8">
+            <header>
+                                    <h1>Un proyecto pensado para limpiar nuestra piel en un solo gesto</h1>                            </header>
+                        <div class="abstract"><p>Si queremos ser embajadoras de Garnier y descubrir las últimas novedades en cuidado facial, este es nuestro momento.</p></div>                                                        <p>
+                        <img alt="Los productos de la gama Agua Micelar de SkinActive" title="Los productos de la gama Agua Micelar de SkinActive" data-src="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas/micelar-packshot-transparent_full.png"     class="floatnone floatbox lazyload"  loading="lazy"/>
+
+    </p>
+<p>En la <a href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/2017-10-23-trnd-es-micelar-gp.pdf"><strong>Guía de proyecto</strong></a> encontraremos toda la información sobre la nueva gama de <strong>#AguaMicelarGarnier</strong> y cómo utilizarla. Además nos ayudará a responder el formulario.</p>
+<p><strong>Envía tu candidatura ahora</strong> y opta a recibir un pack con producto adaptado a tu tipo de piel.</p>
+<p>
+    <a class="button-cta" href="https://www.trnd.com/es/mi-trnd/agua-micelar/candidatura-proyecto">
+        ¡Me apunto!
+            </a>
+</p>
+<p><strong>@todas</strong>: ¿Qué haremos para ser las mejores embajadoras?</p>            
+                    </div>
+    </div>
+    <div class="post-addons row">
+            </div>
+
+    </div>
+    
+
+
+<div class="comments-wrapper visible-comments">
+    <div class="comments-inner-wrapper small-12 medium-10">
+                    <div id="comments">
+                <h3 class="comment-headline">408 Comentarios</h3>
+
+                <div>
+                                                    <div class="comment" id="comment-746803">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">marinanuclear</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>De no limpiar casi nunca mí cara a la noche a una gran &quot;adicta&quot; al agua Micelar Todo tipo de pieles de Garnier. Me gustaría mucho comprobar que tanto el Waterproof y el Todo en 1 son tan efectivos</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746804">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">angusf37</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Pues una vez que lo pruebe, contaré mi experiencia y daré mi opinión en las redes sociales, con fotos muy chulas y con toda la información del producto</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746808">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">mmarpina</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encanta! Ya he probado uno de vuestros productos pero mi piel ha cambiado y creo que tengo que cambiar a otro de la fama! <br />
+<br />
+ Me encantaría probarlo y comentarlo.<br />
+<br />
+ Mis primas ya usan agua micelar gracias a que usaron la mía, de Garnier, claro. <br />
+<br />
+Espero ser elegida!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746809">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">gahele</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>¡Apuntada! Que ganas de probarlo, es una marca muy buena, espero que haya suerte.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746811">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">jessi0208</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Quiero participar!!!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746817">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">rositha</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Lo daré a conocer  a bombo y platillo como en otras ocasiones, soy vuestra chica, acepto el reto ...   jejejeje  :) :) :)</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746824">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">valmor469</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Ya estoy apuntada!! llevo tiempo queriendo probarlo y ahora que se que en la gama incluye una para pieles sensibles (la mía no puede ser mas delicadita) mas aun ,espero ser afortunada!!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746832">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Rosepink1</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntada! Que proyectazo, con ganas de compartirlo y desmaquillarse ya!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746833">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">rocisanz</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntadísima, qué buena pinta tiene este producto y qué cómodo poder desmaquillar, limpiar y tonificar a la vez.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746838">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">stylepalace</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Yo ya me he apuntado, no podía perder esta oportunidad de poder probar estos productos con tan buena pienta, espero ser una de las afortunadas!!!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746839">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">guoris</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>He probado la gama skinactive desmaquillante ojos 2en1 y estoy encantada, y a todas mis amigas que se lo he recomendado ya lo utilizan, así que me gustaría que me eligierais para ahora dar a conocer el aguamicelar desmaquillante en sus tres variedades. La consigna es ahorrar tiempo des maquillando nos y dejar la puek perfecta.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746842">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Cristy_ales</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntada!!! Como maquilladora espero ser seleccionada para conocer el producto y por supuesto recomendárselo a todas mis clientes!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746843">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">SoniaZ93</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>¡Me encantaría participar en este proyecto! Llevo tiempo queriendo probar el agua micelar y sería la oportunidad perfecta :) Compartiría mi experiencia con todas las personas de mi alrededor, además de en redes sociales, opiniones y reseñas online y un artículo de opinión en mi blog propio. ¡Qué ganas de saber las seleccionadas!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746845">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">alba.b93</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntada! Me encanta la marca de Garnier en general, me aporta confianza y bienestar a un buen precio y accesible para muchas personas. He probado muchas aguas micelares de diferentes marcas pero como la PureActive para pieles mixtas o grasas ninguna como dicen en el campaña #EsUnaPasada desde que la conozco no uso otra. Me encantaría poder probar las otras variedades, sobre todo el Agua Micelar en Aceite, tiene una pintaza increíble, sobre todo para desmaquillar los ojos y los labiales fijos.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746848">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">ragc</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Antes no usaba más que agua y jabón, pero con el agua micelar es mucho más fácil. Gracias por el proyecto</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746857">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">RachelMtnz</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntada!! Ahhh espero ser seleccionada, he escuchado maravillas del agua micelar pero nunca lo he probado. Siempre me desmaquillo con jabón de cara y me cuesta muchísimo que se quite el maquillaje de ojos y luego encima me escueze por el jabón.<br />
+Me encantaría poder probarlo. Gracias . Un saludo.#AguaMicelarGarnier  #EsUnaPasada.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746865">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">mariapemo8</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encanta la marca pero nunca he probado este producto, ojala me cojan y tenga la oportunidad de probarlo!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746873">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">laiats</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntadísima! Tengo ganas de probarla, dicen que va muy bien para limpiar la piel :)</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746874">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">laiats</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Con ganas de utilizarla! <br />
+<br />
+#EsUnaPasada y #AguaMicelarGarnier</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746878">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">DianaGeo</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Qué ganas estoy deseando probarla, yo sólo he probado el agua micelar de Deliplus, de otras marcas de momento no he probado y con el maquillaje resistente me interesaría que lo pudiese quitar porque cuando te disfrazas de algo cuesta un montón o dentro de poco en las Navidades con esos maquillajes de fiesta me vendría muy bien.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746880">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">LORIZAN</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encantaría poder ser seleccionada y poder probar el Agua Micelar para pieles grasas ya q he probado la de pieles normales y me gustó muchísimo ;)</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746881">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">aguadovam</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encanta, me voy a apuntar ahora mismo, me gusta cuidar mi piel pero nunca he utilizado agua micelar para desmaquillarla. Deseando probarla. A ver si tengo suerte. De Garnier si he utilizado productos, sobre todo para el pelo.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746882">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Jessica_cvr</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encantaría ser seleccionada ya que me encantan todos los productos que sacan nuevos al mercado de garnier ya sea de pelo de la piel de todo..😍</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746885">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">latana_08</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encanta Garnier y sus productos son excelentes. Ojalá me escojais para poder compartir mis experiencias en mi blog y mis redes sociales ;)</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746889">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">compartocontigo</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Ojalá tener suerte ya que sería mi primera vez y tengo muchas ganas!! Suerte a todas 😍😍😍😍</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746890">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">aroa185</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Pues cuando lo pruebe enviare mi experiencia,lo pondré en las redes sociales, mandare reseñas para que otras personas a la hora de comprar se guien por las opiniones.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746901">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">sukero</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Nunca he probado estas aguas pero sé que tienen muy buenas críticas y me encantaría ver si superan a mis aguas limpiadoras coreanas, que es complicado ojo :P</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746904">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Mandragora13</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Sería la primera vez que pruebe agua micelar y compartiría mi opinión tanto en redes sociales como en persona</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746910">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Luuuuci18</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encanta este producto!!! Ojalá sea una de las seleccionadas ya que me haría mucha ilusión empezar mi blog con esta maravilla :D @madeintheatlantic</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746914">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Garzassss</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntadaaa!! La verdad es que para mi tipo de piel PureActive me vendría de perlas, me encantaría probarla!! Es genial para desmaquillar rápido y dejarte un acabado perfecto 👌🏻. Ojalá ser seleccionada.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746921">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Esperanzaze</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Seria mi deseo el poder probar el Agua Miscelar.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746931">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">lum6</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Apuntada, con todos los problemas que tengo de piel, ojala haya suerte y pueda probar esta maravilla. Y claro dar a conocer  por todos los sitios. Gracias</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746945">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">DianaGeo</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me interesaría que quitase el maquillaje resistente pero prefiero el de pieles mixtas porque sino se me puede engrasar la piel. Muy buen proyecto ;)</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746948">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">magdalena87</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>YA ME HE APUNTADO!! OJALÁ SEA NOMBRADA EMBAJADORA PORQUE LO VOY HACER MUY BIEN!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746958">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">MORBY</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>apuntada!!!! me encantan estos productos, que te ayudan a desmaquillar y encima a cuidar de nuestra piel, puede ser mejor?? <br />
+<br />
+cruzando los dedos!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746964">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Yolandacr</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encantaría probar el Agua micelar, necesito un desmaquillante que no se reseque mi piel y me retire bien el maquillaje</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746965">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Polyvore</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Limpieza en casa con amigas y compartiéndolo para mis seguidores en instastories con el hashtag #AguaMicelarGarnier .</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746969">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">beauty.health_connection</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>@todas ¡Apuntada y posteada esta campaña en Facebook y Twitter! ^_^ ¡Me encantaaa!</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746970">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">luloca</span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Tras recibirlo y probarlo.lo dare a conocer en las redes sociales y entre amistades</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746973">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">lrbellop</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Lo.probare y darea conocer con una demostración en video en.mis redes sociales.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746978">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Marimun</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Llevo mucho tiempo con ganas de probar el agua micelar porque me han hablado muy bien de ella. Me encantaria probar la pure active porque es la que mejor se adaptaria a mi tipo de piel.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746980">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">atrr</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Qué proyecto más fantástico y con una marca excepcional</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746989">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">minu13</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Ojalá tenga suerte</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746990">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">alopezba</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>me encanta ¡¡¡¡ apuntada</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746996">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">irenesanzb_</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Ojalá salga seleccionada!! <br />
+Uso siempre agua micelar para desmaquillarme, pero nunca he probado el de Garnier y tengo muchas ganaaaas! 😍🤘🏼</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-746997">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Entremispotingues</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Pues lo probaré en mí y cuando maquille para que otras personas también puedan darme su opinión y crear una buena opinión. Contaré en mis redes sociales todo sobre el agua Micelar y daré mi opinión basada en mi experiencia. Además subiré fotos y/o vídeos contando un poco todo del día a día, subir desmaquillando en Vídeos para que puedan verlo en acción... etc. Ojalá tenga suerte en probarlo :)</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-747005">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">palomatrndpal</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Garnier es una apuesta segura por su calidad y prestigio por lo que estaría encantada de formar parte de esta campaña.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-747011">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">babybcl</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encantaría poder probarlo y dar mi opinión.</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-747021">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">tere220</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Me encantaría ser una de las afortunadas de probar la nueva gama de agua micelar garnier, puesto que es mi marca referente en cuanto al cuidado y limpieza de mi piel se refiere. Estoy súper ilusionada con este proyecto y agradezco a TRND y garnier la oportunidad que nos brinda, ojala y sea una de las afortunadas ! Seria buena embajadora puesta que es mi marca referente y me encanta dar a conocer los productos que me van bien a mis amigas, familiares y conocidos</p>
+                    </div>
+    </div>
+
+    
+
+                                                    <div class="comment" id="comment-747023">
+
+        <div class="comment-text">
+            <p class="comment-meta">
+                                <span class="comment-author">Fofuneca</span>
+                                                        <span class="verified-tooltip">
+                                                                                                    <a href="https://www.trnd.com/es/mi-trnd/perfil?edit=social" data-event="event" data-category="Buttons" data-action="Click" data-label="Verified profile badge">                            <img src="/build/images/themes/trnd/verified.4fe4770e.png" class="btn-verified" alt="Verified">
+                        </a>                                                                                    <span class="verified-tooltip-text">
+                                    <span>
+                                        Por favor, conecta al menos una red social para tener un perfil verificado.
+                                    </span>
+                                </span>
+                                                                        </span>
+                                                <span class="comment-time">
+                    • hace 8 años
+                </span>
+            </p>
+                            <p>Garnier es mi marca favorita, y con el agua micelar, me desmaquillo siempre, me va fenomenal, y mas cuando me tengo que quitar un montón de súper maquillajes continuamente, por mi canal de YouTube, ojala me escojáis para este proyecto , ¡¡¡que me hace muchísima ilusión!!!</p>
+                    </div>
+    </div>
+
+    
+
+                                    </div>
+            </div>
+                            <ul class="doctrine-pagination small-12">
+        <li><a title="Anterior" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=1"><i class="fal fa-angle-double-left"></i></a></li>                    <li><a class="prev" title="Volver" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=2"><i class="fal fa-angle-left"></i></a></li>
+                                                                                                                    <li><a href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=1">1</a></li>
+                                                                                                                                    <li><a href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=2">2</a></li>
+                                            <li class="current-page"><a>3</a></li>
+                                                                                <li><a href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=4">4</a></li>
+                                                                <li><a href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=5">5</a></li>
+                                                                                                                                                        <li><a class="next" title="Siguiente" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=4"><i class="fal fa-angle-right"></i></a></li>
+                <li><a title="Mostrar más" href="https://www.trnd.com/es/proyectos/skinactive-agua-micelar/agua-micelar-skinactive/candidaturas?page=9"><i class="fal fa-angle-double-right"></i></a></li>    </ul>
+        
+            </div>
+</div>
+
+
+    </article>
+                </div>
+                        <!-- /Content Area -->
+                                                
+
+
+                    
+                                        </div>
+    </div>
+
+                        <footer class="page-footer columns">
+    <div class="row footer-links"><div class="footer-navigation-element small-12 medium-3 columns"><h2>Proyectos y noticias</h2><ul><li ><a href="https://www.trnd.com/es/proyectos">Proyectos actuales</a></li></ul></div><div class="footer-navigation-element small-12 medium-3 columns"><h2>Información</h2><ul><li ><a href="https://www.trnd.com/es/acerca-de/trnd/que-es-trnd">¿Qué es trnd?</a></li><li ><a href="https://www.trnd.com/es/acerca-de/trnd/preguntas-frecuentes">Preguntas frecuentes</a></li><li ><a href="https://www.trnd.com/es/acerca-de/trnd/equipo">Equipo central de trnd</a></li><li ><a href="https://www.trnd.com/es/acerca-de/info/contacto">Contacto para usuarios</a></li><li ><a href="https://www.trnd.com/es/deref?url=eyJpdiI6ImJSZzRHSjBhcHdSWnBibkJYUExEOEE9PSIsInZhbHVlIjoiYkRFYmc2Q3hwcEsyVnZcL0dCMnR3UkhRaFA3RkZcLzgxaEVrUkEwN1QwcTM2MGdQbkxzeGpvM2pmeE9cL0NHcE00ZzRZMjhzUkw0UWdUT1o2TDIyRzZqemc9PSIsIm1hYyI6IjE2YmZkNjE5ZDZjYWJiZWU4OTI2OWJmNzUzMGRiZDFjNzBlMWFiNGI4MzVhMjRjZTNkYThmMzFmNjJkNWM1YzYifQ%3D%3D" target="_blank" rel="noopener noreferrer sponsored">Contacto para empresas</a></li></ul></div><div class="footer-navigation-element small-12 medium-3 columns"><h2>Aviso legal</h2><ul><li ><a href="https://www.trnd.com/es/acerca-de/info/aviso-legal">Aviso legal</a></li><li ><a href="https://www.trnd.com/es/acerca-de/info/politica-privacidad">Política de privacidad</a></li><li ><a href="https://www.trnd.com/es/deref?url=eyJpdiI6IkFVZ2Yrd2tBUk9hZ0FEUWFqU2p3akE9PSIsInZhbHVlIjoibkJBMVc1UGFTem9KeU1GK1dUSFlNOEFIbUxYeXlyQjZaT2UyUXpWWU9IYThUeUkxNlFpTllaVjZoZ0s3T09aMXd6bVFJcTZqdjE4Y0ppazBVdnhIUkE9PSIsIm1hYyI6ImRiOWRlYTU3NWI2NGJjYjM2ZTc5MWIwM2NiNGFiYzYxN2UyMzk3MmY0MDJiZjBlODIxYjI0ZmUyNzE5MjYzNTUifQ%3D%3D" target="_blank" rel="noopener noreferrer sponsored">Contacto legal</a></li><li class="sp"><a href="#">Administrar cookies</a></li></ul></div><div class="footer-navigation-element small-12 medium-3 columns"><h2>Otros</h2><ul><li ><a href="https://www.trnd.com/es/deref?url=eyJpdiI6IlpNYmlCVHNBclRhTmh0YnNFeWtVWHc9PSIsInZhbHVlIjoidjFjWndsY0xaRGo3SklwR0FkeTV4S0t6U0E0TVdINFFZKzlJZXMzVjBsTThwZGZCWDMySUV2UUc3T0g2MExDVyIsIm1hYyI6ImU2YmYyOTM1ZWM4MWMyZjgzNWE0MmE2YWQ2OGZjZjc3ZDZhYWYzMTNmMThhYzdmZThiYjU0NzUyMzJkZmU4YmUifQ%3D%3D" target="_blank" rel="noopener noreferrer sponsored">Información para clientes</a></li><li ><a href="https://www.trnd.com/es/deref?url=eyJpdiI6IjhVd0xKb0ZqUk1HQ3FNY2twMWNJbVE9PSIsInZhbHVlIjoiWWxzbTZOSGg2NTBBVDQzaFpHakhZMG9LVTdjeWtOZ1wvdWpWclNRbDFQa1Z6ZklXTjVcL2s4QUpESmVTXC9XY1wvUTciLCJtYWMiOiJhOWQxZGJiYjFmMjVjNmJmYTFkNmQ0OWRlYTU1OGY2MzFiZTY0OWMyMTRkY2MzNDVkOGZlZmM2NWY4YzEwZjJlIn0%3D" target="_blank" rel="noopener noreferrer sponsored">Información para prensa</a></li><li ><a href="https://www.trnd.com/es/deref?url=eyJpdiI6IkRsSXZYYlZhTFVtbjZmUnZ6XC9KZFJRPT0iLCJ2YWx1ZSI6Im5xVFQ4QUJYcE83NzFiQzAwUU1mbzhTODhnTThlSUNncTI4aFg5bjVSNVR6NHc3bm5OMVZSdlJxQmgyeTNQYVhBZVJsUkNIYmozTENUV1ZGQTVkekVRPT0iLCJtYWMiOiJlZDEzZDYwMGRiMGExMmQzNzk1MzgxOTJkN2ZkZWI5NjYyYzdjMDIwNWY2ODE1YTY1OGUxYTAxM2ZjN2M0ZGRkIn0%3D" target="_blank" rel="noopener noreferrer sponsored">Trabaja en trnd</a></li></ul></div></div>            <div class="row align-middle align-justify">
+            <div class="small-12 medium-6 large-4">
+                <a class="logo" href="https://www.trnd.com/es/" title="">trnd</a>
+                <div class="region-selection" id="regionSelection">
+            <h2 class="region-selection--headline">
+            ¿No es tu idioma?
+        </h2>
+        <ul class="region-selection--list">
+                                            <li class="region-selection--item region-selection--sub__open">
+                    <p class="region-selection--link"> België / Belgique</p>
+                                                            <ul class="region-selection--sub-list">
+                                                                                                                                                                <li class="region-selection--item">
+                                    <a class="region-selection--link" href="https://www.trnd.com/be-fr">Belgique / français</a>
+                                </li>
+                                                                                                                                                                <li class="region-selection--item">
+                                    <a class="region-selection--link" href="https://www.trnd.com/be-nl">België / nederlands</a>
+                                </li>
+                                                    </ul>
+                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/cz"> Česká republika </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/de"> Deutschland </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item current">
+                        <a class="region-selection--link" href="https://www.trnd.com/es"> España </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/fr"> France </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/it"> Italia </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/hu"> Magyarország </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/nl"> Nederland </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/de"> Österreich </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/pl"> Polska </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/pt"> Portugal </a>
+                                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/ro"> România </a>
+                                                    </li>
+                                            <li class="region-selection--item region-selection--sub__open">
+                    <p class="region-selection--link"> Schweiz / Suisse</p>
+                                                            <ul class="region-selection--sub-list">
+                                                                                                                                                                <li class="region-selection--item">
+                                    <a class="region-selection--link" href="https://www.trnd.com/de">Schweiz / deutsch</a>
+                                </li>
+                                                                                                                                                                <li class="region-selection--item">
+                                    <a class="region-selection--link" href="https://www.trnd.com/fr">Suisse / français</a>
+                                </li>
+                                                    </ul>
+                                    </li>
+                                                                                                                                                                        <li class="region-selection--item">
+                        <a class="region-selection--link" href="https://www.trnd.com/uk"> United Kingdom </a>
+                                                    </li>
+            </ul>
+</div>
+
+    <script src="/build/list_region.959d8360.js" integrity="sha384-yXx8AtfjgpMK9Rgh4mfFHwbCQF4dPRDrnRw6ozeoDmQVGWa4Nx9UJOgf1DC/acVm"></script>
+            </div>
+            <div class="social-media-links small-12 medium-4 medium-text-right text-center">
+                    <a href="https://www.trnd.com/es/deref?url=eyJpdiI6IjFpWXNTNkZcL0JiTHpEaFJDT2lUQ0RnPT0iLCJ2YWx1ZSI6IllvdVFlNWVmVkViMGFVTTd2a3FTMW1JU3JYQXQ0RWhjZklhdHJsZFlQb2JVRVByYnE1Z0ltSFYrSjdubGhaKzEiLCJtYWMiOiJjNDRjNTM4YTQxZmIxZWY4ZmZjNWZjMzMxZTYxNTRmZTkxYTgzMjM4MDRiYjg1YWViYTg0ODNmNTZjYjViZWI5In0%3D" title="Facebook" target="_blank" rel="noopener noreferrer sponsored"><i class="fab fa-facebook-square"></i></a>
+    <a href="https://www.trnd.com/es/deref?url=eyJpdiI6IkR3SzVwamFUZ3pjcDJqSHMyd1d1Unc9PSIsInZhbHVlIjoic1Q4ODluOVNZV0V0NW9kUmorS2YyVEtnb082NkFMVERQcWxheTVJNGZpZG5PMjFrQnVLSUFIN2xwYWl2dFJOVCIsIm1hYyI6IjFkNmE5NzQ2OGVhZmU1MDMwMDVmYTAwNGYwZWVjMmFlMjk1NGVkNDU5ZjA1MjIzODdiODM2ZmFmZDU2YmUxZTEifQ%3D%3D" title="Instagram" target="_blank" rel="noopener noreferrer sponsored"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.trnd.com/es/deref?url=eyJpdiI6Im5GSEZ2ZnZrdE5XQ3lhR09SSk5zNXc9PSIsInZhbHVlIjoieXJMRHp3ODc3M3RCYW5cL0RzV29FMVE5a251VVAzMXdVZ3BtZ2lSd014cmhhQWplVExCMHRoWm9icVFqaE54WUoiLCJtYWMiOiI0NDI5Y2Q0ZjY5MDA5MTdmY2Q2NjNhNTk5ZTdkZjM4ODA4YzkxNDVkMmM1MGY4ZTFlNThlMjdjNzYzOTI0Nzk2In0%3D" title="TikTok" target="_blank" rel="noopener noreferrer sponsored"><i class="fab fa-tiktok"></i></a>
+            </div>
+        </div>
+        <div class="row footer-copyright">
+        <div class="small-12 text-center columns">
+            <p>Copyright © 2026 TERRITORY Influence GmbH. Collaborative Marketing. Powered by <a href="https://www.trnd.com/es/deref?url=eyJpdiI6IlBaMGtcL2xjSkZkdlFWa0hCVWlpajF3PT0iLCJ2YWx1ZSI6ImluN1hWWUxOVENtNWhFKzdPcm50S0NLY1owc1dhcEZjRVhtMk9WeXpEWEU4NUFnQjRTbmZjM3JPUmhBTmQyZTIiLCJtYWMiOiJiMjJiZDA1ZWQ3Y2QzMDlkYWVjMGFiNGM2ZDc2OWE1OGM0NDAzNWFkMzA5ODQ2OTc3YjE3YmUyNmRlYTdjMmJhIn0%3D" target="_blank" rel="noopener noreferrer sponsored">trndsphere</a>™</p>
+        </div>
+    </div>
+</footer>
+            
+        
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. PhotoSwipe keeps only 3 of them in the DOM to save memory. Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!-- Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+                
+    
+                            <script>
+                var tagManager = 'GTM-KD6WJFW';
+                initTrndSourcepoint('www.trnd.com');
+            </script>
+            <script src="/build/tag_manager.f8a253dd.js" integrity="sha384-N6aydCCbcJjPLECoF2UfPm0X3I1+1BbbstNM0bxELbBALkZUec2NJ/EvdPt9Xoez"></script>
+        
+                    <script src="/build/trndsphere17_gtm_click_event.7844a7d2.js" integrity="sha384-YmwQYb3Q0CqWoVs+t/6shBRWwZvDvWoXABTXqKzgidD7GSPA6te629lHx/+vuaO+"></script>
+                    
+    <script src="/build/trndsphere17_blog_general.81d85929.js" integrity="sha384-d00NbjzHnNNMZv2V0Ld151PJIjhwV5WfVo8SvN56EqRY5dZ/wfgQURVcS27Ai1Sl"></script>
+
+            <script>
+            $(document).ready(function() {
+                $("#member_comment_text").attr("placeholder", "Tu comentario");
+            });
+        </script>
+    
+    
+
+    <script src="/es/es/vendor/jquery/jquery.cookiesdirective-t17.js"></script>
+
+<script>
+    $(document).ready(function () {
+        getCookieBanner({"fixedLayout":false});
+    })
+</script>
+
+    
+</body>
+</html>
